@@ -35,8 +35,8 @@ Access, Refresh токены обоюдно связаны, Refresh операц
 Чтобы защититься от хакеров refresh токен зифруется и валидируется. Даже если на клиенте данный токен изменят, то он банально не пройдет проверку и произойдет logout.
 Если хакер украдет access токен, то это не страшно, т.к. access токен имеет время жизни 60 минут.
 
-![Генерация](https://github.com/NetworkPy/TestTaskJuniorBackDev/img/generate.jpg)
-![Обновление](https://github.com/NetworkPy/TestTaskJuniorBackDev/img/refresh.jpg)
-![Результаты в БД](https://github.com/NetworkPy/TestTaskJuniorBackDev/img/result.jpg)
+![Генерация](https://github.com/NetworkPy/TestTaskJuniorBackDev/blob/master/img/generate.jpg)
+![Обновление](https://github.com/NetworkPy/TestTaskJuniorBackDev/blob/master/img/refresh.jpg)
+![Результаты в БД](https://github.com/NetworkPy/TestTaskJuniorBackDev/blob/master/img/result.jpg)
 
 
